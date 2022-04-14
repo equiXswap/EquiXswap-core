@@ -1,17 +1,18 @@
 {
-  "name": "@pancakeswap-libs/pancake-swap-core",
-  "description": "🎛 Core contracts for the pancake protocol",
+  "name": "@equixswap/equixswap-core",
+  "description": "🎛 Core contracts for the EquiXswap protocol",
   "version": "0.1.0",
-  "homepage": "https://pancakeswap.finance",
+  "homepage": "https://equixswap.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pancakeswap/pancake-swap-core.git"
+    "url": "https://github.com/equiXswap/EquiXswap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
   },
   "files": [
     "contracts",
+    "equixswap",
     "build"
   ],
   "engines": {

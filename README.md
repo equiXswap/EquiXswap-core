@@ -1,8 +1,10 @@
-# Pancake Factory
+# Equix Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+Cloned from: [pancakeswap/pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core/commit/3b214306770e86bc3a64e67c2b5bdb566b4e94a7)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+[![Actions Status](https://github.com/equiXswap/EquiXswap-core/workflows/CI/badge.svg)](https://github.com/equiXswap/EquiXswap-core/actions)
+
+In-depth documentation on EquixSwap is available at [docs.equixswap.org](https://docs.equixswap.org/).
 
 # Local Development
 
