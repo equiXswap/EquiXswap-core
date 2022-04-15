@@ -7,12 +7,8 @@
     "type": "git",
     "url": "https://github.com/equiXswap/EquiXswap-core.git"
   },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org"
-  },
   "files": [
     "contracts",
-    "equixswap",
     "build"
   ],
   "engines": {
